@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\NodeJS\\NodejsAuthenticationGuide\\logs\\.d95b71dc5bfb88840f7b9770abb9b5918bca6eb3-audit.json",
+    "files": [
+        {
+            "date": 1728013122348,
+            "name": "D:\\NodeJS\\NodejsAuthenticationGuide\\logs\\app-2024-10-04-10.log",
+            "hash": "c545fc4e73e01bdc66f2c6eda9c27f319b02cfc7aea2ef8f8dac2d1140af9afb"
+        }
+    ],
+    "hashType": "sha256"
+}
