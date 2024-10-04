@@ -3,7 +3,7 @@ const connectDB = require("./db");
 const app = express();
 const cookieParser = require("cookie-parser");
 const { adminAuth, userAuth } = require("./middleware/auth.js");
-const logger = require('./services/logger.js')
+const logger = require('./utils/logger.js');
 
 const PORT = 5000;
 
